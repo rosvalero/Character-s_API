@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: linear-gradient(to top, #5ee7df 0%, #b490ca 100%);
+}
+
+.infoCharacters {
+  display: inline-flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+.card{
+    margin-bottom: 10px;
+    margin-right: 10px;
+    border-radius: 8px;
+    border-width: 2px ;
+    border-color: #666666;
+}
+
+
